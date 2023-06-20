@@ -23,9 +23,9 @@
     </p>
     <hr>
     <p align="center">
-        <img src="https://github.com/DurinPavel/citylink_parsing/blob/main/images/citilink.ru_.png" alt="Screenshot of the citylink page" width=80%>
+        <img src="https://github.com/DurinPavel/wildberries_parsing/blob/main/images/wildberries.ru.png" alt="Screenshot of the wildberries page" width=100%>
         <hr>
-        <img src="https://github.com/DurinPavel/citylink_parsing/blob/main/images/dataframe.png" alt="Screenshot of the dataframe" width=100%>
+        <img src="https://github.com/DurinPavel/wildberries_parsing/blob/main/images/dataframe.png" alt="Screenshot of the dataframe" width=100%>
         <hr>
     </p>
 </b></body>
