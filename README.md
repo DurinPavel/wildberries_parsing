@@ -2,7 +2,7 @@
     <a href="https://github.com/DurinPavel/wildberries_parsing/blob/main/README_EN.md" target="_blank">
     <p>English version</p></a>
     <p align="justify">
-      Цель данного проекта является получение данных путем парсинга с сайта маркетплейса 
+      Целью данного проекта является получение данных путем парсинга с сайта маркетплейса 
       Wildberries и загрузка их в датафрейм Pandas.
     </p>
     <p align="justify">
