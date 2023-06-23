@@ -1,4 +1,6 @@
 <body><b>
+    <a href="https://github.com/DurinPavel/wildberries_parsing/blob/main/README.md" target="_blank">
+        <p>Russian version</p></a>
     <p align="justify">
       The goal of this project is to get data by parsing from the Wildberries 
       marketplace website and upload them to the Pandas dataframe.
